@@ -35,7 +35,7 @@ Since this project is computationally expensive, the **minimum laptop specs** re
 
 ### **Step 1: Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/ltx-video-generation.git
+git clone https://github.com/mohdalipatel8976/ai-video-generator.git
 cd ltx-video-generation
 ```
 
@@ -59,7 +59,7 @@ python -m venv video_env
 pip install --upgrade pip
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 pip install diffusers transformers accelerate
-pip install huggingface_hub numpy scipy opencv-python tqdm
+pip install huggingface_hub numpy scipy opencv-python tqdm imageio imageio-ffmpeg
 ```
 
 ---
