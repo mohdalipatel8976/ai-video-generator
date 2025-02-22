@@ -132,9 +132,11 @@ This project is open-source and available under the **MIT License**.
 ## 🙌 Contributing
 Feel free to **fork** this repository, improve the code, and submit pull requests!
 
-🔗 **GitHub Repository:** [Your Repo Link Here]
+🔗 **GitHub Repository:** https://github.com/mohdalipatel8976/ai-video-generator
 
 💬 **Contact:** If you have questions, open an issue or reach out on GitHub.
+                **Telegram:** alimack786
+                **email:** mohdalipatel8976@gmail.com
 
 ---
 
